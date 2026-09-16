@@ -1,0 +1,221 @@
+id,text,intent
+1,@AmazonHelp Please can you private tweet me and I’ll send you my contact details,other_or_unclear
+2,@AmazonHelp Je recois le message : mdp incorrect,account_issue
+3,"@AmazonHelp the person in the amazon chat said it looks like USPS has the package already...too contact them. but according to their tracking...which again hasn't been updated since thursday...Your item was picked up by a shipping partner at 5:46 am on November 23, 2017 in RUSKIN, FL 33570.",delivery_issue
+4,@AmazonHelp Thankfully it has just arrived,delivery_issue
+5,@AmazonHelp Hi AP. I’ve done this responding 3 times now and I’ve gotten the exact same response. I’ve given you the order number and contact details.,complaint_escalation
+6,"@AmazonHelp わざわざありがとうございます！
+
+一応出品者へ連絡はしてみました。",seller_issue
+7,@AmazonHelp Nope. I've just spoken with customer services but they can't help apart from to tell me it's late and should arrive soon... Which isn't very helpful. Maybe I should have pre-ordered somewhere else.,delivery_issue
+8,@AmazonHelp Thank you amazon for taking care of this and for prompt reply. :),other_or_unclear
+9,"@AmazonHelp @115850 has started selling echo series and you guys have no info yet....
+it's strange.Should I buy it or not?",seller_issue
+10,"@AmazonHelp Tá tudo ok , fiz ele hoje !! 😉",other_or_unclear
+11,@AmazonHelp @115851 please teach some managment lesson to @115850  simply asking details multiple time...,complaint_escalation
+12,"@AmazonHelp Dommage, vous pouvez compter d’avance un article égaré alors",delivery_issue
+13,@AmazonHelp I have cancelled the order. No delivery attempt was made. I will happily DM the order reference etc to you.,cancellation_issue
+14,@AmazonHelp I ordered an item which priced 7390 at that time which included free delivery and an exchange item but after 24 hours the price bill (1/3),payment_issue
+15,@AmazonHelp  mercredi 15 novembre,other_or_unclear
+16,@AmazonHelp What would be done to rectify the situation if it's not been delivered by then?.,delivery_issue
+17,@AmazonHelp I didnt get an option 2 leave feedback after rhe chat. I left tracking feedback on my package and referred to the rep I spoke with.,other_or_unclear
+18,@AmazonHelp Rephrase. Echo purchased in US will have similar features to one purchased in India when configured with Ind Amazon prime sub &amp; used in Ind?,prime_issue
+19,@AmazonHelp @115850 wer is the solution for my query,other_or_unclear
+20,@AmazonHelp Can’t. On my way to catch a flight now. Running late and without the product I needed. Not impressed. Expecting more as a prime member,delivery_issue
+21,@AmazonHelp First I received this... then this lovely message.. the item is sold by amazon &amp; is still on their website for purchase. Why aren’t u guys https://t.co/5k4EymP84b,order_issue
+22,@AmazonHelp It was 3rd party but I bought it with @116090 business integrity,seller_issue
+23,@AmazonHelp We already have and we requested for our replacement phone to be sent via a different courier and again you're sending it by @116324 😡,delivery_issue
+24,"@AmazonHelp I have, yeah. Same result. Rebooted the ipad tho and everything working ok. Unusual, because normally updates work right out of the box.",other_or_unclear
+25,@AmazonHelp Oui il l’était heureusement mais il aurait pu être embarqué par n’importe qui ou abîmé ...,delivery_issue
+26,@AmazonHelp That was order out for delivery on Nov 30 @ 12:11 pm...,delivery_issue
+27,"@AmazonHelp C'est okay, juste un peu plus long que prévu :)",delivery_issue
+28,"@AmazonHelp Ich habe als Prime-Kunde Prime-Artikel bestellt, daher denke ich, ja. Ist zum Glück nicht allzu dringend. Ich warte mal ab :)",delivery_issue
+29,"@AmazonHelp They will email the courier again. Hi Alexa, why dont you employ more drivers for Christmas? Hi Alexa, who's paying the extra  postage to send presents now my delivery is 3 days overdue? Hi Alexa, Is it better to go to the high street and dump Amazon Prime?",delivery_issue
+30,@AmazonHelp Limited to Non-Prime members because my Brother and one of my friend got their invitation. Both of them don't have Prime (But I Have),prime_issue
+31,"@AmazonHelp Will do, not impressed by the lying of your delivery company though. It's just not on.",complaint_escalation
+32,"@AmazonHelp ""this card is issued by SBI cards &amp; payment services pvt ltd "" is written on back side of the card.",payment_issue
+33,"@AmazonHelp Yeah the name was left called ""spinetinglers""",other_or_unclear
+34,@AmazonHelp  https://t.co/SzMTD5A5Xu,other_or_unclear
+35,@AmazonHelp Thanks for https://t.co/HT5WDt5IH9 Regards,other_or_unclear
+36,"@AmazonHelp I won’t lie, it’s niggles like this that make me question my prime renewal (due in ~16 days). Thanks though",prime_issue
+37,@AmazonHelp Do you offer it in Maryland?,other_or_unclear
+38,@AmazonHelp and conversation moves to another agent. Agents telling me they will refund me and then ending the chat. Promised 5 times someone will call me from the UK but always get Barbados call centre who have no clue about my complaint,complaint_escalation
+39,@AmazonHelp I m not sure  product will be delivered today or not. Let see what is going to happen your agent will come with same old story or new story,delivery_issue
+40,"@AmazonHelp on amz chat they said the product got damaged and hence got returned. So were is customer mistake here? Usually we get 3delivery attempt 
+:(",delivery_issue
+41,@AmazonHelp Amazon logistics 🙄 nightmare delivery,delivery_issue
+42,"@AmazonHelp yeah, uh, why was i unsubscribed from",cancellation_issue
+43,@AmazonHelp Solo con Correos Express. Espero que fuese solo está última vez,delivery_issue
+44,@AmazonHelp But I haven’t done any of those things,order_issue
+45,"@AmazonHelp Hallo, nein, das war es nicht - unten im Hauseingang lagen 5 Päckchen von 4 Parteien, davon 2 Parteien nachweislich den ganzen Nachmittag Zuhause",delivery_issue
+46,@AmazonHelp claro que si :D,other_or_unclear
+47,"@AmazonHelp Had a response saying within next 18-24 hours... Aaarrrrrgh!!! Why is it so difficult!?! Surely you can track where it is, and where the driver is, and what the route is.........?",delivery_issue
+48,@AmazonHelp Is there any exceptions of what the credit can be used on?,payment_issue
+49,@AmazonHelp Creo que por Amazon,other_or_unclear
+50,@AmazonHelp Ill dm you..,other_or_unclear
+51,"@AmazonHelp Just now, don't use Amazon much so didn't know the process if you don't receive an item",delivery_issue
+52,"@AmazonHelp doesn't answer my question. Who cut the tree down, Jack (of the beanstalk)? Woodcutter (from Little Red Riding hood)?",other_or_unclear
+53,@AmazonHelp @AmazonHelp Hi TE. What shall I do with your printer cartridge?,return_issue
+54,@AmazonHelp Please make sure tomorrow it gets delivered before 12PM thanks just a humble request please.,delivery_issue
+55,@AmazonHelp As of now i haven't been explained why the order wasnt delivered even today. Explanation i guess wud be 2 much to expect @115821 @115850,delivery_issue
+56,"@AmazonHelp Il est bien indiqué là https://t.co/IHLVxAuAKD ?? 
+Et pourtant tjrs pareil 194€",payment_issue
+57,@AmazonHelp Yes,other_or_unclear
+58,@AmazonHelp Thanks so much! Sending an email to report it!!!,complaint_escalation
+59,@AmazonHelp over 36 hours ago.,other_or_unclear
+60,@AmazonHelp you support team is helpful. The technical support team is busy and I got defective mobile. Amazon is not bothered get refund request.,refund_issue
+61,"@AmazonHelp You all are trying to loot my money and not I will not let this happen, you all are the most pathetic criminals of world!",complaint_escalation
+62,@AmazonHelp Can I change the delivery address. Payment failed,payment_issue
+63,@AmazonHelp J’habite en seine maritime ?,other_or_unclear
+64,@AmazonHelp My package didn’t show up today either... 😤 That’s 2 days late.,delivery_issue
+65,"@AmazonHelp No help . 4 times contacted .By email,chat ,Twitter etc. Same answer, always,we are looking into the matter. Horrible service.",complaint_escalation
+66,@AmazonHelp Nope. I didn't even know that my other bank account was linked to my amazon account?,account_issue
+67,"@AmazonHelp i already filed complain but your representatives just ignoring the act and assuring me that i get my money back in my AMAZON PAY
+but i cleary told them that i take money in my bank account as i dont want to purchase anything from you without my desire..dont trap ur customers",refund_issue
+68,"@AmazonHelp わざわざありがとうございます！
+そうです！近づいてからご連絡いただけるんですね！！初めてで慣れておらず、わからなかったところを助けていただきありがとうございます🙇
+ご丁寧にありがとうございます！リンク見て見ます！",other_or_unclear
+69,@AmazonHelp Till now i have not received,order_issue
+70,@AmazonHelp Mañana 😍 Prime ha sido lo mejor que me ha pasado.,prime_issue
+71,@AmazonHelp If not arriving and I leave tomorrow what happens?,delivery_issue
+72,"@AmazonHelp I Had Filled the Same Details which sent you as msg , don't make customers as fools 
+Really Very Poor Customer Support @115850 @115821",complaint_escalation
+73,@AmazonHelp Absolutely none as they said i need a tracking/purchase numbee But as iv not bought this item i havent got one &amp; its blank on the card :(,payment_issue
+74,@AmazonHelp Pas encore ;) Je me garde 1-2 jours encore si jamais ^^,other_or_unclear
+75,@AmazonHelp I have reported my complaint already.. 2 days ago. But no response from ur side. I'm not expecting this. Pls refund my amount as soon as possible. I would prefer another service provider,refund_issue
+76,"@AmazonHelp Yes, I've received 2 updates from the app since, both with conflicting information and indicating the delivery won't be tomorrow as promised",delivery_issue
+77,@AmazonHelp I did not recieve the order and Ur agent marked it as product delivered,delivery_issue
+78,"@AmazonHelp Sony Bravia 4K, Baujahr ende 2016",other_or_unclear
+79,@AmazonHelp The item was from a third party seller but shipped with post it notes sold by you. We got the post its but there was no pin backs in the box,seller_issue
+80,@AmazonHelp My husband and I have already done this with 2 people in cs in the last week. I'm just shopping elsewhere.,complaint_escalation
+81,"@AmazonHelp As a visually impaired customer, why shouldn't i be able to share the same experiences as someone who is normally sighted...?",other_or_unclear
+82,"@AmazonHelp Não, vem como AmazonPrime Membership. Só que eu cancelei após a trial e ainda recebi o e-mail de vocês confirmando o cancelamento. Agora vi que foi cobrado em outubro e hoje novamente.",payment_issue
+83,@AmazonHelp Yes!!. It was ordered September 15th!!.,order_issue
+84,@AmazonHelp I had multiple call with Your customer care team earlier  . No use they are not responding properly,complaint_escalation
+85,@AmazonHelp Check my order ID and the details I have shared with your online form.,order_issue
+86,@AmazonHelp ご丁寧にありがとうございます！,other_or_unclear
+87,@AmazonHelp en cliquant sur ignorer...je suis renvoyer vers... la fenêtre de connexion... et l'option ignorer n'y est plus...,account_issue
+88,@AmazonHelp Let me know when i can expect my order.,delivery_issue
+89,@AmazonHelp Can’t be bothered to deal with this anymore.,complaint_escalation
+90,@AmazonHelp  https://t.co/st1HCANWCU,other_or_unclear
+91,@AmazonHelp It has not arrived yet. It was suppose to arrive today by 8pm.,delivery_issue
+92,@AmazonHelp As far as I'm concerned this is a failure on amazons part. You didn't ask me how I wanted to pay.,payment_issue
+93,"@AmazonHelp Yes, and it logged me into my account. I browse audiobooks but when I go to checkout there are no credits. https://t.co/FEEbDo2kPC",payment_issue
+94,@AmazonHelp I have been telling repeatedly that my account was compromised and when I tried to gain access it was already blocked. I don't have the email of the account at the moment so to whom &amp; what to reply. But my 30k mobile is now a waste because of a invoice. Please help &amp; give invoice,account_issue
+95,@AmazonHelp It magically got enabled today. I can get multi room music now on all my Echo,other_or_unclear
+96,@AmazonHelp And still not received today,delivery_issue
+97,@AmazonHelp Please see attached https://t.co/VVvNYLZafj,other_or_unclear
+98,@AmazonHelp I've had a ^BV and a ^JD and a ^JE and a pathetic lady on the phone so far. https://t.co/C2SulJbOD6,complaint_escalation
+99,@AmazonHelp @AmazonHelp I contacted every possible person but nothing happened,complaint_escalation
+100,@AmazonHelp Actually I hv ordered this product for gifting someone . You know how it feels if it was delivered like this .That is why I am requesting to deliver it little urgent I have followed all your norms also.,delivery_issue
+101,@AmazonHelp I have replied ur email and give u last warning to you return my money immediately! You fuckers ! Buch of criminals!,refund_issue
+102,@AmazonHelp But why it's happening again and again guys...? Really not satisfied with the service...😕,complaint_escalation
+103,"@AmazonHelp No help received either from them. 
+They have directed to  speak to KENSTAR",complaint_escalation
+104,@AmazonHelp You don't need to worry about my order details as they are my personal details. I am OK with that,account_issue
+105,"@AmazonHelp That’s what I got, but when I turned it on to get started it said I get 1 month free and then charged 2.99 for one kid profile.",payment_issue
+106,@AmazonHelp @AmazonHelp Hi TE. What shall I do with your printer cartridge?,other_or_unclear
+107,@AmazonHelp Sent. Thanks a bunch!,other_or_unclear
+108,@AmazonHelp It magically got enabled today. I can get multi room music now on all my Echo,other_or_unclear
+109,"@AmazonHelp Thanks... I got it favourited but is there any way to replay what's been played earlier? After thinking it was a gimmick have to admit Alexa is a lot of fun, I'm a convert!",other_or_unclear
+110,@AmazonHelp Plz check __email__ amazon id...Complaint is registered..he gifted me a gift card which is not working... @510903 ...U guys don't care for ur customer..I just spent 30 mins explaining same to ur customer rep over chat as well,complaint_escalation
+111,@AmazonHelp It was very shocking to know that even you don't know the status of my product !,order_issue
+112,@AmazonHelp That takes me to the page to sign up for text trace.  I was already signed up but I don't get any texts.,delivery_issue
+113,"@AmazonHelp Hallo. Danke für die Info, aber ich hab die Rücksendung natürlich schon beantragt und als Begründung auch alles Nötige dazu geschrieben. Wollte das aber trotzdem nochmal tweeten um mir etwas Luft zu machen und vor dem Ding zu warnen, grad Kinder sind in Gefahr in diesem Fall.",return_issue
+114,@AmazonHelp Y’all deliver our packages to the wrong house every time. We literally brought cupcakes to our neighbors as an apology for all the boxes,delivery_issue
+115,@AmazonHelp @AmazonHelp  my account is ARMAKD and my mail __email__,account_issue
+116,@AmazonHelp Is there any exceptions of what the credit can be used on?,payment_issue
+117,@AmazonHelp Yes just ordered something today and it says ready to ship but not coming til Monday. And it’s been everything lately,delivery_issue
+118,@AmazonHelp Initially @115821 were very helpful emails almost daily not two weeks later nothing problem still there and no communication,complaint_escalation
+119,"@AmazonHelp Pas d'avis de passage, pas sonné, pas même venu dans le quartier ! Etant donné que j'ai déjà demandé à Amazon de ne pu utilisé ce transporteur car probleme récurent, que faut il faire pour être livré a l'heure en Premium...",delivery_issue
+120,@AmazonHelp https://t.co/r2T86VL4hB,other_or_unclear
+121,"@AmazonHelp yeah, uh, why was i unsubscribed from",other_or_unclear
+122,"@AmazonHelp Crédito. É o q sempre uso pra compra de ebook e livros físicos.
+O outro tbm é crédito, no nome da minha mãe.",payment_issue
+123,@AmazonHelp En mp? Je vous suis.,other_or_unclear
+124,@AmazonHelp Absolutely none as they said i need a tracking/purchase numbee But as iv not bought this item i havent got one &amp; its blank on the card :(,payment_issue
+125,@AmazonHelp When I'm expecting your phone call? You're as slow as your courier service is.,complaint_escalation
+126,"@AmazonHelp Just a refund, which has landed me in the position of trying to send the TV back without the original box.",return_issue
+127,@AmazonHelp  https://t.co/8XvLlmexcF,other_or_unclear
+128,"@AmazonHelp On tourne en rond là, car comme je vous l'ai dit, j'ai déjà 2 comptes aujourd'hui et je n'ai jamais voulu créer de 2ème compte :)",account_issue
+129,@AmazonHelp How to check that???? While i an not a spammer i think my account was spammed,account_issue
+130,@AmazonHelp my case came in,other_or_unclear
+131,@AmazonHelp @13150 @115850 @117795#no update#noresolution more than#70 hours over.#customer care r dumb.when #saynotoamazon,complaint_escalation
+132,@AmazonHelp C'est votre SAV qui vient de me donner ces informations hein !,other_or_unclear
+133,"@AmazonHelp I talk to your CS people, I fill out complaint forms and it gets worse. I feel like every time this happens we start over with new problems.",complaint_escalation
+134,@AmazonHelp Of course,other_or_unclear
+135,"@AmazonHelp I mean I guess I’ll try calling again, because the first two times no help was offered other than a “promo” to my account.",complaint_escalation
+136,@AmazonHelp Danke!,other_or_unclear
+137,@AmazonHelp But I haven’t done any of those things,other_or_unclear
+138,@AmazonHelp @115850  @132994  I did respond. It seeks another 12-24 hrs to work on issues. Alrdy  2 days delayed &amp; u doesnt know where the pkt is,delivery_issue
+139,"@AmazonHelp Hallo, nein, das war es nicht - unten im Hauseingang lagen 5 Päckchen von 4 Parteien, davon 2 Parteien nachweislich den ganzen Nachmittag Zuhause",delivery_issue
+140,"@AmazonHelp all sorted now, thank you!! 😌👏",other_or_unclear
+141,@AmazonHelp You have not replied for J7 prime,prime_issue
+142,@AmazonHelp @115851 please teach some managment lesson to @115850  simply asking details multiple time...,complaint_escalation
+143,@AmazonHelp over 36 hours ago.,other_or_unclear
+144,@AmazonHelp As far as I'm concerned this is a failure on amazons part. You didn't ask me how I wanted to pay.,payment_issue
+145,"@AmazonHelp This gets fixed, or I'm gone. I'll sell off my kindle's, all 5 echo devices, etc. Avg $10K a year in purchases. Disgusting treatment.",complaint_escalation
+146,@AmazonHelp We already have and we requested for our replacement phone to be sent via a different courier and again you're sending it by @116324 😡,delivery_issue
+147,@AmazonHelp Actually I hv ordered this product for gifting someone . You know how it feels if it was delivered like this .That is why I am requesting to deliver it little urgent I have followed all your norms also.,delivery_issue
+148,@AmazonHelp  https://t.co/YWYiTe4AWu,other_or_unclear
+149,@AmazonHelp Check the case logs. I've been trying to get a resolution for the past week. What else you need??,complaint_escalation
+150,"@AmazonHelp Não, vem como AmazonPrime Membership. Só que eu cancelei após a trial e ainda recebi o e-mail de vocês confirmando o cancelamento. Agora vi que foi cobrado em outubro e hoje novamente.",payment_issue
+151,@AmazonHelp Some Help?  I'm being told to buy from another seller.  Thought you stood behind your products @115821 https://t.co/b520YmJVVt,seller_issue
+152,"@AmazonHelp doesn't answer my question. Who cut the tree down, Jack (of the beanstalk)? Woodcutter (from Little Red Riding hood)?",other_or_unclear
+153,@AmazonHelp Details sent,other_or_unclear
+154,@AmazonHelp Your Customer team did not provide any proper solution when i contacted them.,complaint_escalation
+155,"@AmazonHelp Will do, not impressed by the lying of your delivery company though. It's just not on.",complaint_escalation
+156,"@AmazonHelp Yeah the name was left called ""spinetinglers""",other_or_unclear
+157,"@AmazonHelp I don’t know as since starting the return process I can no longer track it myself.
+I just want my money back for the item I never received. I don’t understand why this is so difficult.",refund_issue
+158,"@AmazonHelp @532869 アプリ、Firefoxでも同様
+イキナリ表示されなくなった
+ツイートを見る限りだと結構起きている？
+仕様変えた？
+一体、どうなっているんだ？
+早く、公式発表してくれんかなぁ
+気持ち悪い",other_or_unclear
+159,"@AmazonHelp Il est bien indiqué là https://t.co/IHLVxAuAKD ?? 
+Et pourtant tjrs pareil 194€",payment_issue
+160,@AmazonHelp Yes,other_or_unclear
+161,@AmazonHelp Yes order was placed on amazon.in and order no is 408-9230945-5135569 dt. 17/10/2017,order_issue
+162,@AmazonHelp @460821 Why not?!,other_or_unclear
+163,@AmazonHelp I've had a ^BV and a ^JD and a ^JE and a pathetic lady on the phone so far. https://t.co/C2SulJbOD6,complaint_escalation
+164,@AmazonHelp @115850 wer is the solution for my query,complaint_escalation
+165,@AmazonHelp how can you refund back to an account that doesn't exist?!,refund_issue
+166,@AmazonHelp Good news.  The site is back and loads just fine now.,other_or_unclear
+167,"@AmazonHelp Just now, don't use Amazon much so didn't know the process if you don't receive an item",delivery_issue
+168,@AmazonHelp I had multiple call with Your customer care team earlier  . No use they are not responding properly,complaint_escalation
+169,@AmazonHelp I’m done reporting this. What’s the point? All I get from you guys is apologies.,complaint_escalation
+170,"@AmazonHelp Let me try tomorrow, I went Vinyl instead :) thanks for such a quick response https://t.co/hCrjPkGrC0",other_or_unclear
+171,@AmazonHelp ありがとうございます！ お世話になってます。笑,other_or_unclear
+172,@AmazonHelp https://t.co/VahMoItJxe,other_or_unclear
+173,"@AmazonHelp They will email the courier again. Hi Alexa, why dont you employ more drivers for Christmas? Hi Alexa, who's paying the extra  postage to send presents now my delivery is 3 days overdue? Hi Alexa, Is it better to go to the high street and dump Amazon Prime?",delivery_issue
+174,@AmazonHelp At this point I want a new shipment of product via FedEx Express overnight.,delivery_issue
+175,@AmazonHelp I have reported my complaint already.. 2 days ago. But no response from ur side. I'm not expecting this. Pls refund my amount as soon as possible. I would prefer another service provider,refund_issue
+176,@AmazonHelp Thank you!,other_or_unclear
+177,@AmazonHelp I'm not getting any emails or updates from Amazon support. Useless service. After repeated follow ups gets single reply to wait,complaint_escalation
+178,"@AmazonHelp Yes, and the app told me it was going to be there by 8, until after 8.  Then it was pushed back two days.   That tells anyone with a brain that your app shouldn’t be telling people that",delivery_issue
+179,@AmazonHelp Ok.  Sent her the link.  Thanks guys,other_or_unclear
+180,"@AmazonHelp Howcome somebody else got the deal a while ago and not me?! 
+I really wanted to buy that deal :(",other_or_unclear
+181,@AmazonHelp It has not arrived yet. It was suppose to arrive today by 8pm.,delivery_issue
+182,@AmazonHelp All ready fixed this with my bank.,payment_issue
+183,"@AmazonHelp Yes, and it logged me into my account. I browse audiobooks but when I go to checkout there are no credits. https://t.co/FEEbDo2kPC",account_issue
+184,@AmazonHelp thank you,other_or_unclear
+185,@AmazonHelp It's been 2 hrs. U said shortly. I wonder what happened to Amazon Standards. @115851 @1840,complaint_escalation
+186,@AmazonHelp I seriously fedup with your way of caring for your customers and their valuable money and trust they invest on you 2/2,complaint_escalation
+187,@AmazonHelp Why should the customer wait all the time.,complaint_escalation
+188,@AmazonHelp #amazonindia its been now more than 48 hour without any resolution on this issue.iecustomerservicerip #poorperformance #untrustworthyAmazon,complaint_escalation
+189,@AmazonHelp I was expecting it on Saturday. Went to get it from the post office today and they told me it was back on the truck.,delivery_issue
+190,@AmazonHelp How to proceed further.,other_or_unclear
+191,@AmazonHelp Vuestra solución es que llame yo a mis vecinos puerta por puerta... Como si eso fuera tarea mia o como si nadie fuera amigo de lo ajeno. Es ridiculo! Tenéis repartidores que dejan los paquetes sin decir dónde y encima no hay manera de localizarlos. Que vergüenza de servicio!,delivery_issue
+192,@AmazonHelp D’accord je vous remercie. Bonne journée :),other_or_unclear
+193,@AmazonHelp massive help that is too thanks for nothing.. just proves my point that amazon case about one thing only and that isnt the customer.,complaint_escalation
+194,@AmazonHelp いつもお世話になっております！ツイートを拾っていただき、ありがとうございます。一度問い合わせしてみます。,other_or_unclear
+195,"@AmazonHelp Das war Ironie, aber trotzdem danke. 😄",other_or_unclear
+196,@AmazonHelp It shipped and arrived yesterday,other_or_unclear
+197,@AmazonHelp USPS,other_or_unclear
+198,@AmazonHelp Mas podiam também NHL &lt;3 Amo hóquei,other_or_unclear
+199,@AmazonHelp thanks for your reply. I'm thinking about linking the dot to a different not unlimited account in the meantime. I don't really see the need for the family so far.,prime_issue
+200,@AmazonHelp That was order out for delivery on Nov 30 @ 12:11 pm...,delivery_issue

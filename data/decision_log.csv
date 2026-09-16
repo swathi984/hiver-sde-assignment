@@ -1,0 +1,16 @@
+decision_id,decision,reason
+1,Selected AmazonHelp as the target brand,"AmazonHelp had a large number of customer-support interactions, providing enough data for intent classification and historical response retrieval."
+2,Used inbound customer tweets for intent labeling,Inbound messages represent the customer requests that the support agent needs to classify.
+3,Built conversation threads using response relationships,Thread relationships provide context and allow customer messages to be connected with historical support responses.
+4,Created a manually labeled golden set,A hand-labeled evaluation set provides a fixed reference for measuring classifier performance.
+5,Used a small set of interpretable support intents,A limited intent taxonomy reduces ambiguity and makes the routing decisions easier to inspect.
+6,Included an other_or_unclear intent,"Some customer tweets are too short, vague, or informational to map reliably to a specific support intent."
+7,Used TF-IDF features for the baseline classifier,"TF-IDF is simple, fast, interpretable, and provides a strong classical NLP baseline."
+8,Combined word and character TF-IDF features,"Character features can improve robustness to spelling variations, usernames, URLs, abbreviations, and noisy social-media text."
+9,Used Linear SVM for the main intent classifier,Linear SVM works well with sparse high-dimensional text features and is computationally efficient.
+10,Used historical response retrieval before generation,Retrieval grounds generated responses in previously observed customer-support resolutions instead of relying only on model knowledge.
+11,Used top-3 historical matches,Multiple retrieved examples provide more context while keeping the generation prompt relatively small.
+12,Added an intent-confidence threshold,Low-confidence classifications should not be automatically handled because incorrect routing can produce unsafe or irrelevant responses.
+13,Added a retrieval-similarity threshold,The agent should escalate when it cannot find sufficiently similar historical support evidence.
+14,Escalated complaint and unclear cases,Highly emotional or ambiguous cases are better routed to human support rather than handled automatically.
+15,Evaluated generated replies using an LLM judge,"Intent accuracy alone does not measure whether the generated customer response is relevant, grounded, actionable, and appropriately written."

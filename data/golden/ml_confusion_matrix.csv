@@ -1,0 +1,12 @@
+,account_issue,cancellation_issue,complaint_escalation,delivery_issue,order_issue,other_or_unclear,payment_issue,prime_issue,refund_issue,return_issue,seller_issue
+account_issue,1,0,1,0,0,0,0,0,0,0,0
+cancellation_issue,0,0,0,0,1,0,0,0,0,0,0
+complaint_escalation,1,0,4,0,0,0,2,0,0,0,0
+delivery_issue,0,0,1,6,0,2,0,0,0,0,0
+order_issue,0,0,0,1,0,0,0,0,0,0,0
+other_or_unclear,0,0,2,1,0,10,0,0,0,0,0
+payment_issue,0,0,0,0,0,0,3,0,0,0,0
+prime_issue,0,0,1,0,0,0,0,0,0,0,0
+refund_issue,0,0,0,0,0,0,0,0,1,0,0
+return_issue,0,0,0,0,0,1,0,0,0,0,0
+seller_issue,0,0,0,0,0,1,0,0,0,0,0

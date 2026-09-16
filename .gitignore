@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large raw/intermediate datasets
+data/twcs.csv
+data/amazon_help_threads.csv
+data/amazon_help_conversations.csv
+data/amazon_help.csv
+data/historical_response_pairs.csv
+data/historical_pairs.csv
+data/golden/historical_response_pairs.csv

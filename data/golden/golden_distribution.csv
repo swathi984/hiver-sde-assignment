@@ -1,0 +1,12 @@
+intent,count,percentage
+delivery_issue,29,29.0
+other_or_unclear,26,26.0
+complaint_escalation,13,13.0
+payment_issue,9,9.0
+order_issue,5,5.0
+account_issue,4,4.0
+seller_issue,4,4.0
+prime_issue,4,4.0
+refund_issue,3,3.0
+cancellation_issue,2,2.0
+return_issue,1,1.0
