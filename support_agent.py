@@ -17,7 +17,7 @@ from google import genai
 # ============================================================
 
 GOLDEN_PATH = "data/golden/golden_set_200.csv"
-RETRIEVAL_PATH = "data/golden/historical_response_pairs.csv"
+RETRIEVAL_PATH = "data/processed/historical_pairs.csv"
 
 GEMINI_MODEL = "gemini-3.5-flash"
 
