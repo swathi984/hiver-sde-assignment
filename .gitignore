@@ -12,3 +12,7 @@ data/amazon_help.csv
 data/historical_response_pairs.csv
 data/historical_pairs.csv
 data/golden/historical_response_pairs.csv
+
+data/golden/golden_set_100.csv
+data/golden/golden_set_additional_100.csv
+data/golden_set.csv
